@@ -1,7 +1,7 @@
 # FixWebconfig
 Installer sur le serveur "URL Rewrite Module 2.1" grâce au lien dans download.txt. (j'ai téléchargé personnellement => French: x64 installer)
 <br>
-Remplacer index.html dans wwwroot par celui-ci donné ici.
+Remplacer index.html dans wwwroot par celui donné ici.
 <br>
 Placer le web.config donné ici dans wwwroot à la même racine que index.html.
 
